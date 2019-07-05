@@ -1,2 +1,2 @@
 # preparation
-material to become/for software engineer
+material to become (for) software engineer
